@@ -1,0 +1,46 @@
+{
+  "authors": [
+    {
+      "name": "Jane Doe",
+      "year": 1980,
+      "isDead": false,
+      "genre": "Fiction",
+      "gender": "Female"
+    },
+    {
+      "name": "John Smith",
+      "year": 1975,
+      "isDead": true,
+      "genre": "Mystery",
+      "gender": "Male"
+    },
+    {
+      "name": "Alice Johnson",
+      "year": 1992,
+      "isDead": false,
+      "genre": "Science Fiction",
+      "gender": "Female"
+    },
+    {
+      "name": "Robert Brown",
+      "year": 1968,
+      "isDead": true,
+      "genre": "Thriller",
+      "gender": "Male"
+    },
+    {
+      "name": "Eva White",
+      "year": 2000,
+      "isDead": false,
+      "genre": "Romance",
+      "gender": "Female"
+    },
+    {
+      "name": "David Black",
+      "year": 1985,
+      "isDead": false,
+      "genre": "Fantasy",
+      "gender": "Male"
+    }
+  ]
+}
